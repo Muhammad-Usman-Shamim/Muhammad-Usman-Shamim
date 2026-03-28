@@ -14,8 +14,8 @@
 - Portfolio Website  
 
 ## 📫 Contact
-- Email: husmanshamim04@gmail.com
-- LinkedIn: (your link)
+- Email: hmusmanshamim99@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/h-m-usman-shamim-1714b1317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!--
 **Muhammad-Usman-Shamim/Muhammad-Usman-Shamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
